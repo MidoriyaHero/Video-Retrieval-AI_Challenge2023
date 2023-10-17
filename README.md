@@ -1,17 +1,19 @@
-This project is to create a web/app to take input as video and return retrieva frame of video 
+# IU-LAB-513 AIC-2023
+## This project is to create a web/app to take input as video and return retrieva frame of video 
 
-NOITCE: It need time to process video and encode keyframe of video   
+## NOITCE: It need time to process video and encode keyframe of video   
 
-step 1:
-
+## Step 1: 
+Clone this repo
+```bash
 git clone https://github.com/MidoriyaHero/Video-Retrieval-AI_Challenge2023
+```
 
-
-step 2:
-
+## Step 2:
+```bash
 pip install -r /path/to/requirements.txt
+```
 
+## Step3:
 
-step3:
-
-Change the location paths in WEB/APP
+`Change the location paths in WEB/APP`
