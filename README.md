@@ -1,5 +1,5 @@
 # IU-LAB-513 AIC-2023
-## This project is to create a web/app to take input as video and return retrieva frame of video 
+This project is to create a web/app to take input as video and return retrieva frame of video 
 
 ## NOITCE: It need time to process video and encode keyframe of video   
 
