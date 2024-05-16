@@ -17,3 +17,5 @@ pip install -r /path/to/requirements.txt
 ## Step3:
 
 `Change the location paths in WEB/APP`
+Then run command
+`streamlit run APP.py`
