@@ -3,10 +3,12 @@ ffmpeg-python pillow
 streamlit
 torch 
 pandas
-ftfy regex tqdm
+ftfy 
+regex 
+tqdm
 opencv-python
 tensorflow --upgrade --force-reinstall
-git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
+git clone https://git.ffmpeg.org/ffmpeg.git
 -e git+https://github.com/soCzech/TransNetV2.git
 -e git+https://github.com/openai/CLIP.git
 -U sentence-transformers
